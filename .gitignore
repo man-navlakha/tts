@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output audio files
+*.wav
+*.mp3
+
+# Caches and logs
+.uv-cache/
+*.log
+
+# IDEs and environments
+.vscode/
+.idea/
+.env
+
+# MacOS
+.DS_Store
